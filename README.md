@@ -4,9 +4,9 @@
 MADE IN PYTHON
 
 
-DOWLOD AND USEING
+# DOWLOD AND USEING
 
-sudo git clone 
+sudo git clone https://github.com/balazsbalint750-glitch/phone_teting-tool.git
 
 
 # Save as phone_pentest.py
